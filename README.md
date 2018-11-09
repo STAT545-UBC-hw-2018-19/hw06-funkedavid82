@@ -24,7 +24,7 @@ Homework 6 repository (Jummy David)
 <td>Readme.md file gives a brief description of all I have in the homework6 folder</td>
 </tr>
 <tr class="even">
-<td><a href="http://htmlpreview.github.com/?https://github.com/STAT545-UBC-students/hw06-funkedavid82/blob/master/hw06.html">hw06.html</a></td>
+<td><a href="http://htmlpreview.github.com/?https://github.com/STAT545-UBC-students/hw06-funkedavid82/blob/master/hw06.html">hw06.html is rendered here</a></td>
 <td>Data wrangling wrap up</td>
 </tr>
 </tbody>
